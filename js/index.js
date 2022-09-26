@@ -95,6 +95,90 @@ function getCoefficients(material) {
       case 5:
          return alfaCarpet;
          break;
+      case 6:
+         return alfaZintra 1/4" Sheets - Direct;
+         break;
+      case 7:
+         return alfaZintra 1/4" Sheets - Z Clips;
+         break;
+      case 8:
+         return alfaZintra 1/4" Sheets - 1" Air Gap;
+         break;
+      case 9:
+         return alfaZintra 1/4" Sheets - 2" Air Gap;
+         break;
+      case 10:
+         return alfaZintra 1/4" Sheets - 6" Air Gap;
+         break;     
+      case 11:
+         return alfaZintra 1/2" Sheets - Direct;
+         break;  
+      case 12:
+         return alfaZintra 1/2" Sheets - Z Clips;
+         break;  
+      case 13:
+         return alfaZintra 1/2" Sheets - 1" Air Gap;
+         break;  
+      case 14:
+         return alfaZintra 1/2" Sheets - 2" Air Gap;
+         break;           
+      case 15:
+         return alfaZintra 1/2" Sheets - 6" Air Gap;
+         break;   
+      case 16:
+         return alfaZintra 1" Sheets - Direct;
+         break;   
+      case 17:
+         return alfaZintra 1" Sheets - Z Clips;
+         break;           
+      case 18:
+         return alfaZintra 1" Sheets - 1" Air Gap;
+         break;      
+      case 19:
+         return alfaZintra 1" Sheets - 2" Air Gap;
+         break;           
+      case 20:
+         return alfaZintra 1" Sheets - 6" Air Gap;
+         break;           
+      case 21:
+         return alfaZintra 2" Sheets - Direct;
+         break;    
+      case 22:
+         return alfaZintra 2" Sheets - Z Clips;
+         break;           
+      case 23:
+         return alfaZintra EMBOSS - Direct;
+         break;           
+      case 24:
+         return alfaZintra EMBOSS - 1" Air Gap;
+         break;  
+      case 25:
+         return alfaZintra EMBOSS - 2" Air Gap;
+         break;           
+      case 26:
+         return alfaZintra EMBOSS - 6" Air Gap;
+         break;           
+      case 27:
+         return alfaZintra Sticks Thin - Direct;
+         break;  
+      case 28:
+         return alfaZintra Sticks Thin - 6" Air Gap;
+         break;           
+      case 29:
+         return alfaZintra Blades Square Small 4.8" ;
+         break;           
+      case 30:
+         return alfaZintra Blades Square 9.5";
+         break;      
+      case 31:
+         return alfaZintra Baffles Small;
+         break;           
+      case 32:
+         return alfaZintra Baffles Large;
+         break;         
+      case 33:
+         return alfaZintra Box Tiles, Hex;
+         break;               
       default:
          break;
    }
